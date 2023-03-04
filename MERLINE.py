@@ -15,7 +15,7 @@ df_mcs = pd.read_excel("popular.xlsx")
 print(df_mcs)
 print()
 
-# line plots
+# line plot
 
 #defining figure size
 plt.figure(figsize=(15,10))
