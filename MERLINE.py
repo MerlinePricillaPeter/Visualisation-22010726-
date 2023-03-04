@@ -13,6 +13,7 @@ import matplotlib.pyplot as plt
 # read file into dataframe and print
 df_mcs = pd.read_excel("popular.xlsx")
 print(df_mcs)
+print()
 
 
 # line plot
