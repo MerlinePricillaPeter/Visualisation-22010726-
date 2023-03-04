@@ -78,7 +78,7 @@ plt.legend(loc = "upper right", framealpha = 0.1)
 plt.show()
 plt.savefig('plot2.png')
 
-#this function will plot the scatter plot for the life expectancy at birth, total (year
+#this function will plot the scatter plot for the life expectancy at birth, total (years)
 
 #importing required packages
 import pandas as pd
